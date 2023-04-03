@@ -1,0 +1,73 @@
+.about {
+    background-color: black;
+    min-height: 1800px;
+
+
+    background-repeat: no-repeat;
+
+}
+
+.main-text {
+    /* padding-bottom: 20vh; */
+    display: flex;
+    /* background: url("https://media1.giphy.com/media/kQCP5LSHnOETJTimMA/giphy.gif?cid=ecf05e47kyttr1we0esekjypf4d6d8fsf9pefe0twmz6jdof&rid=giphy.gif&ct=g"); */
+    /* background: url("https://i.pinimg.com/originals/6c/a7/15/6ca715c0002f94dc490422eecb9d8c1c.gif"); */
+    background: url("https://i.gifer.com/h4m.gif");
+    background-size: contain ;
+    background-color: rgb(4, 26, 86);
+    /* padding-left: 10vh; */
+    padding-bottom: 7vh;
+    background-repeat: no-repeat;
+    width: 100%;
+
+}
+
+.main-text h1 {
+
+
+    font-size: 150px;
+    color: rgb(255, 255, 255);
+    margin-left: 20vh;
+    padding-top: 20vh;
+
+}
+
+.main-text p {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    margin-left: 2vh;
+    font-size: 20px;
+}
+
+.version {
+   
+    color: rgb(255, 38, 190);
+}
+
+.mainimg {
+
+    height: 200px;
+    width: 200px;
+    margin-top: -70vh;
+    margin-left: 140vh;
+    border-radius: 50%;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+
+}
+
+.artimg {
+    margin-top: 10px;
+    margin-left: 10vh;
+}
+
+
+
+.ai {
+
+    font-size: 25px;
+    color: white;
+    margin-left: 100vh;
+    margin-top: -20vh;
+}

@@ -1,0 +1,33 @@
+button {
+  margin-top: 30px;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1.4em;
+  font-weight: 500;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  background-color: #0b2161;
+  width: 30vh;
+  color: rgb(238, 235, 230);
+  margin-bottom: 50px;
+}
+/* button:hover {
+  background-color: #ff4f98;
+  color: rgb(225, 225, 225);
+} */
+
+
+.copyright{
+  font-size: 16px;
+color:  #ffffff;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* header{
+  padding-top: 50px;
+  position: fixed;
+} */
+
+.Aimage{
+ margin-top: 60px;
+}
